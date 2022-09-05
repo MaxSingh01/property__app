@@ -1,0 +1,21 @@
+.filters {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+.select {
+    height: 3rem;
+    border: unset;
+    border-bottom: 1px solid white;
+    outline: unset;
+    background-color: transparent;
+    color: white;
+    width: 20rem;
+    font-size: 1.3rem;
+    
+}
+option{
+    color: black;
+}
+
